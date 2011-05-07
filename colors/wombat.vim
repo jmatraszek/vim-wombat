@@ -49,4 +49,8 @@ hi PreProc 		guifg=#e5786d gui=none
 hi Number		guifg=#e5786d gui=none
 hi Special		guifg=#e7f6da gui=none
 
-
+" Diff colors
+hi diffAdd guibg=#5f8700
+hi diffChange guibg=#b58900
+hi diffDelete guibg=#dc322f
+hi diffText guibg=#6c71c4
