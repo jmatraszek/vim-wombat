@@ -1,1 +1,5 @@
+This is my fork, with some customizations. If you are looking for
+original wombat theme as a pathogen bundle please visit
+https://github.com/cschlueter/vim-wombat
+
 vim wombat colorscheme for pathogen.vim
