@@ -33,7 +33,7 @@ hi Folded 		guibg=#384048 guifg=#a0a8b0 gui=none
 hi Title		guifg=#f6f3e8 guibg=NONE	gui=bold
 hi Visual		guifg=#f6f3e8 guibg=#444444 gui=none
 hi SpecialKey	guifg=#808080 guibg=#343434 gui=none
-hi MatchParen   guifg=none guibg=#999966 gui=none
+hi MatchParen   guibg=#999966
 
 " Syntax highlighting
 hi Comment 		guifg=#99968b gui=italic
